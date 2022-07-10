@@ -1,4 +1,4 @@
-module github.com/bratushkadan/testing_example
+module github.com/bratushkadan/go_basic_testing_examples
 
 go 1.18
 
